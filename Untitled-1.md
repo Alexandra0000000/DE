@@ -2941,7 +2941,27 @@ cmd
 cd C:\furniture_store_2026_pu\FurnitureStoreApp
 git add .
 git commit -m "Финальная версия проекта (C#, Вариант 5 2026)"
-Шаг 18. Финальная структура проекта
+
+
+
+
+ВЫГРУЗКА
+
+ЧЕРЕЗ ВИЗУАЛ СТУДИО 
+проект - гит- клонировать репозиторий - ссылка на репозиторий (https://github.com/Alexandra0000000/FurnitureStoreApp)
+
+
+ЧЕРЕЗ СМД
+mkdir НАЗВАНИЕ ПАПКИ (создание)
+cd  НАЗВАНИЕ ПАПКИ
+git clone https://github.com/Alexandra0000000/FurnitureStoreApp
+cd FurnitureStoreApp  (это для проверки)
+dir  (это тоже)
+
+https://github.com/Alexandra0000000/DE
+
+
+# Шаг 18. Финальная структура проекта
 text
 C:\furniture_store_2026_pu\
 │
